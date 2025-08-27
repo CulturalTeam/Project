@@ -28,7 +28,7 @@ The Cultural Team Storage Repository is designed to facilitate easy access to im
 
 This repository contains the following files:
 
-- **AllTeachersNamesList.jpg** - A visual representation of all teachers involved in the project.
+- **AllTeachersNamesList.jpg** - A List of all teachers.
 - **README.md** - This README file with project details.
 - **ScienceQuizCompitition.pdf** - A PDF document for the Science Quiz Competition.
 - **TeachersDayDramaPdf.pdf** - A PDF document for the Teachers' Day Drama event.
